@@ -1,3 +1,4 @@
+Based on: http://www.cns.nyu.edu/malab/bayesianbook.html
 # Neural-Likelihood-Function
 2) (Based on problem 14.2) We assume a population of 9 independent Poisson neurons with Gaussian tuning curves and preferred orientations from -40 to 40 in steps of 10. The tuning curve parameters have values g=1, b=0, and sigma_tc=20.
 
